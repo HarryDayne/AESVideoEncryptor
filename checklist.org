@@ -1,0 +1,16 @@
+#+title: Checklist
+#+description: checklist for the video encryption project
+
+* Video Encryptor [2/3] :
+- [X] accept video input
+- [X] render video as binary file
+- [ ] output the key and the binary file
+
+* Vide Decryptor [0/3] :
+- [ ] accept bin file and key
+- [ ] decrypt the file to a decrypted binary
+- [ ] convert binary into mp4
+
+* Github upload [0/2] :
+- [ ] install git and configure git
+- [ ] upload to git
